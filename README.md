@@ -1,5 +1,6 @@
-# Big-data-processingScript:
- 
+# Big-data-processing:
+
+Script:
 It is an automated script to execute Hadoop commands for the specified tasks. The script takes in parameter as one of the values corresponding to the task names such as ‘wordCount’, ‘triGram’, ‘invertedIndex’, ‘join’ or ‘knn’. The paths are hardcoded and testing is done on the same. Hence if the code is to be tested, these paths need to be altered accordingly.
 
 
